@@ -1,0 +1,151 @@
+
+
+.darkmode {
+  background-color: rgb(10, 10, 10);
+  color: rgb(255, 255, 255);
+  transition: 0.5s;
+}
+
+.darkmode h1 {
+  color: #fff !important;
+}
+
+.darkmode h2 {
+  color: #fff !important;
+}
+
+.darkmode h3 {
+  color: #fff !important;
+}
+
+.darkmode h4 {
+  color: #fff !important;
+}
+
+.darkmode h4 a{
+  color: #fff !important;
+}
+
+.darkmode h5 {
+  color: #fff !important;
+}
+
+.darkmode a {
+  color: #fff !important;
+}
+
+.darkmode p {
+  color: #fff !important;
+}
+
+.darkmode .pricing,
+.darkmode .pricing-boody ul li,
+.darkmode .calendar li{
+  color: #fff !important;
+}
+
+.darkmode .testimonial-content span,
+.darkmode .contact-content span,
+.darkmode .service-number span,
+.darkmode .why-choose-us-tab{
+  color: #fff !important;
+}
+  
+.darkmode .service-section,
+.darkmode .testimonial-section,
+.darkmode .brand-section,
+.darkmode .blog-details-area{
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .service-single-box,
+.darkmode .service-two-box,
+.darkmode .blog-single-box{
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .form_field_inner input,
+.darkmode .form_field_inner textarea,
+.darkmode .login-form input,
+.darkmode .search input,
+.darkmode .subscribe-form input,
+.darkmode .form_field input{
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .form_field_inner input::placeholder,
+.darkmode .form_field_inner textarea::placeholder,
+.darkmode .search input::placeholder,
+.darkmode .subscribe-form input::placeholder,
+.darkmode .form_field input::placeholder{
+  color: #fff !important;
+}
+
+.darkmode .single-testimonial,
+.darkmode .single-counter-box,
+.darkmode .cart-content p,
+.darkmode .contacts-single-box{
+  background-color: rgb(10, 10, 10);
+  border: 1px solid #3c3c3c;
+}
+
+.darkmode .team-single-box,
+.darkmode .subscribe-form input,
+.darkmode .form_field input{
+  border: 1px solid #3c3c3c;
+}
+
+.darkmode .pricing-single-box{
+  background-color: rgb(10, 10, 10);
+  border: 1px solid #3c3c3c;
+}
+
+.darkmode .Leasing-section{
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .coffe-price{
+  background-color: rgb(10, 10, 10);
+  border: 1px solid #3c3c3c;
+}
+
+.darkmode .feature-single-box{
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .services-icon img{
+  filter: brightness(1);
+}
+
+.darkmode blockquote{
+  color: #fff !important;
+  background-color: rgb(10, 10, 10);
+}
+
+.darkmode .about-section{
+  background-image: url(../image/ab-d-bg.png);
+}
+
+.darkmode .awaids-section{
+  background-image: url(../image/awad-d-bg.png);
+}
+
+.darkmode .service-two-box:hover{
+  background-image: url(../image/ser-d-bg.png);
+}
+
+.darkmode .feature-section{
+  background-image: url(../image/blog-d-bg.png);
+}
+
+.darkmode .blog-section{
+  background-image: url(../image/blogs-d-bg.png);
+}
+
+.darkmode .team-two-section{
+  background-image: url(../image/team-d-bg.png);
+}
+
+.darkmode .brand-single-box{
+  background-color: rgb(27 27 27);
+}

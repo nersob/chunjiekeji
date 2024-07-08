@@ -1,0 +1,1760 @@
+/* Normal desktop :1920px. */
+@media (min-width: 1920px) and (max-width: 1920px) {
+
+    .subscribe-form button {
+        right: 765px;
+    }
+
+    .form-field button {
+        left: 1035px;
+    }
+
+    .search button {
+        left: 670px;
+    }
+}    
+
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+
+
+
+}
+
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1399px) {
+
+.Vendin_menu>ul>li {
+    margin-left: 35px;
+}
+
+.slider-title h1 {
+    font-size: 50px;
+}
+
+.header2-button a {
+    padding: 15px 30px;
+}
+
+/*==========about-section=============*/
+
+.section-title h2 {
+    font-size: 50px;;
+}
+
+.abouts-thumb img {
+  width: 100%;
+}
+
+.about-two-section .section-title p {
+    width: 100%;
+}
+
+.section-button a {
+    font-size: 15px;
+}
+
+/*==========service-section=============*/
+.service-disc p {
+   width: 100%;
+}
+
+.service-section .section-title p {
+    width: 100%;
+}
+
+.service-expart-section .section-title p {
+    width: 100%;
+}
+
+/*==========feature-section=============*/
+.awaids-section .section-content h4 {
+    width: 260px;
+    height: 70px;
+}
+
+.awaids-icon {
+    left: 87px;
+}
+
+.shops-title {
+    left: 355px;
+}
+
+.shops-title p {
+    padding: 5px 35px;
+}
+
+.feature-button {
+    top: 350px;
+    left: 295px;
+}
+
+.awaid-number {
+    left: 90px;
+}
+
+/*========testimonial Area responsive===========*/
+.testimonial-content h2 {
+    font-size: 20px;
+}
+
+.team-single-box::before {
+    top: 277px;
+}
+
+.testimonial-section .section-title p {
+    width: 65%;
+}
+
+/*========subscribe Area responsive===========*/
+.subscribe-form button {
+    right: 480px;
+}
+
+/*========error Area responsive===========*/
+.error-content p {
+    width: 80%;
+}
+
+/*========blog Area responsive===========*/
+.blog-section .section-title p {
+    width: 60%;
+}
+
+/*========blog-dtails Area responsive===========*/
+.search button {
+    left: 395px;
+}
+
+.blog_dtl_content p {
+    width: 100%;
+}
+
+blockquote {
+    width: 100%;
+}
+
+/*========contact Area responsive===========*/
+.contact-icon i {
+    font-size: 15px;
+}
+
+/*========pricing Area responsive===========*/
+
+.pricing::before {
+    width: 200px;
+}
+
+.pricing::after {
+    width: 200px;
+}
+
+.price-btn a {
+    padding: 15px 35px;
+}
+
+.form-field button {
+    left: 705px;
+}
+
+.register-content p {
+    width: 100%;
+}
+
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+
+.logo a img {
+    width: 100%;
+}
+
+.Vendin_menu>ul>li {
+    margin-left: 35px;
+}
+
+.header2-button a {
+    padding: 15px 30px;
+}
+
+/*========slide Area responsive===========*/
+.slider-title h1 {
+    font-size: 45px;
+}
+
+/*========about-section===========*/
+.section-title h2 {
+    font-size: 50px;;
+}
+
+.abouts-thumb img {
+    width: 100%;
+    
+}
+
+.about-two-section .section-title p {
+    width: 100%;
+}
+
+.section-button a {
+    font-size: 15px;
+}
+
+.section-titles p {
+    width: 100%;
+}
+
+/*==========service-section=============*/
+.service-disc p {
+    width: 100%;
+ }
+
+ .service-section .section-title p {
+    width: 100%;
+}
+
+.service-expart-section .section-title p {
+    width: 100%;
+}
+
+/*==========awaids-section=============*/
+.awaids-icon {
+    left: 85px;
+}
+
+.awaid-number {
+    left: 88px;
+}
+
+ .awaids-section .section-content h4 {
+    width: 260px;
+    height: 70px;
+}
+
+/*==========feature-section=============*/
+.feature-button {
+    top: 350px;
+    right: 20px;
+}
+
+.shops-title {
+    left: 355px;
+}
+
+.shops-title p {
+    padding: 5px 35px;
+}
+
+/*==========testimonial-section=============*/
+.testimonial-content h2 {
+    font-size: 20px;
+}
+
+.testimonial-section .section-title p {
+    width: 65%;
+}
+
+/*==========team-section=============*/
+.team-single-box::before {
+    top: 278px;
+}
+
+.team-two-section .section-title p {
+    width: 55%;
+}
+
+/*========blog Area responsive===========*/
+.blog-content h4 a {
+    font-size: 22px;
+}
+
+/*========subscribe Area responsive===========*/
+.subscribe-title h2 {
+    font-size: 50px;
+}
+
+.subscribe-title p {
+    font-size: 20px;
+}
+
+.subscribe-form button {
+    right: 430px;
+    top: 263px;
+}
+
+/*========counter Area responsive===========*/
+.single-counter-box {
+    padding: 35px 30px 20px;
+}
+
+/*========blog Area responsive===========*/
+.blog-section .section-title p {
+    width: 60%;
+}
+
+/*========blog-dtails Area responsive===========*/
+.search button {
+    left: 345px;
+}
+
+.blog_dtl_content p {
+    width: 100%;
+}
+
+blockquote {
+    width: 100%;
+}
+
+/*========contact Area responsive===========*/
+.contact-icon i {
+    font-size: 15px;
+}
+
+/*========pricing Area responsive===========*/
+.pricing::before {
+    width: 200px;
+}
+
+.pricing::after {
+    width: 200px;
+}
+
+.price-btn a {
+    padding: 15px 35px;
+}
+
+.form-field button {
+    left: 655px;
+}
+
+.register-content p {
+    width: 100%;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.Vendin_menu>ul>li {
+    margin-left: 15px;
+}
+    
+.logo a img {
+    width: 100%;
+}
+
+.header2-button a {
+    padding: 10px 10px;
+}
+
+.search-box-btn.search-box-outer i {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+}
+
+.header-cart i{
+    width: 45px;
+    height: 45px;
+    line-height: 45px; 
+}
+
+/*========silder-responsive===========*/
+.slider-title h1 {
+    font-size: 40px;
+    
+}
+
+/*========about-responsive===========*/
+.abouts-thumb img {
+    width: 100%;
+}
+
+.section-title h2 {
+    font-size: 40px;
+}
+
+.about-two-section .section-title p {
+    width: 100%;
+}
+
+/*==========service-section=============*/
+.service-two-section .section-title h2 {
+    font-size: 50px;
+}
+
+.service-two-section .service-disc p {
+    width: 90%;
+}
+
+.service-disc p {
+    width: 100%;
+ }
+
+ .section-title h4 a {
+    font-size: 23px;
+}
+
+ .service-number {
+    right: 20px;
+}
+
+.section-titles p {
+    width: 100%;
+}
+
+.service-expart-section .section-title p {
+    width: 100%;
+}
+
+/*========awaids Area responsive===========*/
+.awaids-section .section-content h4 {
+    font-size: 22px;
+    width: 217px;
+    height: 57px;
+    line-height: 57px;
+}
+
+.awaids-section .section-title p {
+    width: 100%;
+}
+
+.awaids-icon {
+    left: 65px;
+}
+
+.awaid-number {
+    left: 68px;
+}
+
+/*========feature Area responsive===========*/
+.feature-button {
+    top: 300px;
+    right: 5px;
+}
+
+.shops-title {
+    left: 295px;
+}
+
+.shops-title p {
+    padding: 5px 22px;
+}
+
+/*========testimonial Area responsive===========*/
+.testimonial-content {
+    left: 280px;
+}
+
+.testimonial-content h2 {
+    font-size: 22px;
+}
+
+.testimonial-section .section-title p {
+    width: 70%;
+}
+
+.testimonial-disc p {
+    width: 100%;
+}
+
+/*========team Area responsive===========*/
+.team-single-box::before {
+    top: 230px;
+}
+
+.team-two-section .section-title p {
+    width: 70%;
+}
+
+/*========blog Area responsive===========*/
+.blog-content h4 a {
+    font-size: 20px;
+}
+
+.blog-section .section-title p {
+    width: 75%;
+}
+
+/*==========subscribe-section=============*/
+.subscribe-title h2 {
+    font-size: 45px;
+}
+
+.subscribe-title p {
+    font-size: 20px;
+}
+
+.subscribe-form button {
+   display: none;
+}
+
+/*=======footer Area responsive===========*/
+.footer-widget-logo a img {
+    width: 1000%;
+}
+
+.footer a {
+    padding: 14px 30px;
+}
+
+/*=======error Area responsive===========*/
+.error-content h2 {
+    font-size: 50px;
+}
+
+.error-content p {
+    width: 100%;
+}
+
+.section-button a {
+    font-size: 15px;
+}
+
+.error-icon ul .square {
+    width: 220px;
+}
+
+.error-content h1 {
+    font-size: 110px;
+}
+
+/*=======counter Area responsive===========*/
+.single-counter-box {
+    padding: 35px 15px 20px;
+}
+
+.counter-title h1 {
+    font-size: 50px;
+}
+
+/*========blog-dtails Area responsive===========*/
+.search button {
+    left: 280px;
+}
+
+.blog_dtl_content p {
+    width: 100%;
+}
+
+blockquote {
+    width: 100%;
+}
+
+/*========contact Area responsive===========*/
+.contact-icon i {
+    font-size: 15px;
+}
+
+.contact-content span {
+    font-size: 13px;
+}
+
+/*========pricing Area responsive===========*/
+.pricing-single-box {
+    padding: 42px 0px 45px 10px;
+}
+
+.pricing-head h3 {
+    font-size: 20px;
+}
+
+.pricing {
+    font-size: 22px;
+}
+
+.pricing::before {
+    width: 160px;
+}
+
+.pricing::after {
+    width: 160px;
+}
+
+.price-btn a {
+    padding: 12px 15px;
+}
+
+.form-field button {
+    display: none;
+}
+
+.register-content p {
+    width: 100%;
+}
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.sticky {
+    position: absolute !important;
+}
+
+.Vendin_nav_manu{
+    display: none;
+}
+
+/*========slide-responsive===========*/
+.slider-title h1 {
+    font-size: 35px;
+}
+
+.slider-title p {
+    width: 70%;
+}
+
+.section-button a {
+    font-size: 16px;
+}
+
+/*========about-responsive===========*/
+.abouts-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 45px;
+}
+
+.section-button {
+    margin-bottom: 30px;
+}
+
+.about-two-section .section-title p {
+    width: 100%;
+}
+
+/*==========service-section=============*/
+.service-disc p {
+    width: 100%;
+ }
+
+ .service-two-section .section-title p {
+    width: 60%;
+}
+
+.service-two-section .section-title h2 {
+    font-size: 45px;
+}
+
+.service-two-section .service-disc p {
+    width: 90%;
+}
+
+.service-expart-thumb img {
+    margin-bottom: 30px;
+}
+
+.service-expart-section .section-title p {
+    width: 100%;
+}
+
+.recent-post-text h4 a {
+    font-size: 14px;
+}
+
+.calendar {
+    padding: 20px 0px 0;
+}
+
+/*========awaids-responsive===========*/
+.awaids-section .section-title p{
+    width: 100%;
+}
+
+.why-choose-us-tab{
+    margin-bottom: 100px;
+}
+
+.awaid-number {
+    left: 285px;
+}
+
+.awaids-icon {
+    left: 275px;
+}
+
+.why-choose-us-tabs{
+    padding-bottom: 0;
+}
+
+.section-titles h3 {
+    font-size: 35px;
+}
+
+/*==========feature-section=============*/
+.feature-section .section-title p {
+    width: 100%;
+}
+
+.feature-button {
+    top: 335px;
+    right: 10px;
+}
+
+.shop-title p {
+    margin: 0;
+}
+
+.shops-title {
+    left: 450px;
+}
+
+/*==========testimonial-section=============*/
+.testimonial-section .section-title p {
+    width: 100%;
+}
+
+.testimonial-disc p {
+    width: 100%;
+}
+
+.single-testimonial {
+    padding: 45px 15px 35px;
+}
+
+.testimonial-section .owl-dots {
+    top: 395px;
+}
+
+/*========team-responsive===========*/
+.team-section .section-title p {
+    width: 100%;
+}
+
+.team-single-box::before {
+    top: 347px;
+}
+
+.team-two-section .section-title p {
+    width: 100%;
+}
+
+/*========brand-responsive===========*/
+.brand-section .section-title p {
+    width: 100%;
+}
+
+/*========blog-responsive===========*/
+.blog-section .section-title p {
+    width: 100%;
+}
+
+/*========subscribe-responsive===========*/
+.subscribe-title h2 {
+    font-size: 45px;
+}
+
+.subscribe-title p {
+    font-size: 20px;
+}
+
+.subscribe-form button {
+    right: 280px;
+    top: 258px;
+}
+
+/*=======error Area responsive===========*/
+.error-content h2 {
+    font-size: 40px;
+}
+
+.error-content p {
+    width: 60%;
+}
+
+.section-button a {
+    font-size: 15px;
+}
+
+.error-icon ul .square {
+    width: 220px;
+}
+
+.error-content h1 {
+    font-size: 110px;
+}
+
+/*========blog-dtails Area responsive===========*/
+.search button {
+    left: 270px;
+}
+
+.blog_dtl_content h2 {
+    font-size: 23px;
+}
+
+.blog_dtl_content p {
+    width: 100%;
+}
+
+blockquote {
+    width: 100%;
+}
+
+.form_field_inner textarea {
+    width: 100%;
+}
+
+.pricing-head h3 {
+    font-size: 25px;
+}
+
+.form-field button {
+    left: 415px;
+}
+
+.register-content p {
+    width: 100%;
+}
+
+}
+
+/* Tablet desktop :600px. */
+@media (min-width: 600px) and (max-width: 767px) {
+
+.sticky {
+    position: absolute !important;
+} 
+
+.Vendin_nav_manu{
+    display: none;
+}
+
+/*========slide-responsive===========*/
+.slider-title h1 {
+    font-size: 30px;
+}
+
+.hero-bg .slider-title h1 {
+    width: 100%;
+}
+
+.slider-title p {
+    width: 100%;
+}
+
+.section-button a {
+    font-size: 16px;
+}
+
+/*========about-responsive===========*/
+.abouts-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 40px;
+}
+
+.section-button {
+    margin-bottom: 30px;
+}
+
+.awaid-number {
+    position: absolute;
+    left: 110px;
+}
+
+.about-two-section .section-title p {
+    width: 100%;
+}
+
+/*==========service-section=============*/
+.service-section .section-title p {
+    width: 100%;
+}
+
+.section-titles p {
+    width: 100%;
+}
+
+.service-disc p {
+    width: 65%;
+ }
+
+ .service-two-section .section-title p {
+    width: 100%;
+}
+
+.service-two-section .section-title h2 {
+    font-size: 45px;
+}
+
+.service-expart-thumb img {
+    margin-bottom: 30px;
+}
+
+.service-expart-section .section-title p {
+    width: 100%;
+}
+
+.calendar {
+    padding: 20px 0px 0;
+}
+
+/*========awaids-responsive===========*/
+.awaids-section .section-title p{
+    width: 100%;
+}
+
+.why-choose-us-tab{
+    margin-bottom: 100px;
+}
+
+.awaid-number {
+    left: 205px;
+}
+
+.awaids-icon {
+    left: 200px;
+}
+
+.why-choose-us-tabs{
+    padding-bottom: 0;
+}
+
+.section-titles h3 {
+    font-size: 32px;
+}
+
+/*==========feature-section=============*/
+.feature-section .section-title p {
+    width: 100%;
+}
+
+.feature-button {
+    top: 490px;
+    right: 10px;
+}
+
+/*==========testimonial-section=============*/
+.testimonial-section .section-title p {
+    width: 100%;
+}
+
+.testimonial-disc p {
+    width: 100%;
+}
+
+.testimonial-section .owl-dots {
+    top: 395px;
+}
+
+/*========team-responsive===========*/
+.team-section .section-title p {
+    width: 100%;
+}
+
+.team-single-box::before {
+    top: 540px;
+}
+
+.team-two-section .section-title p {
+    width: 100%;
+}
+
+/*========brand-responsive===========*/
+.brand-section .section-title p {
+    width: 100%;
+}
+
+/*========blog-responsive===========*/
+.blog-section .section-title p {
+    width: 100%;
+}
+
+/*========subscribe-responsive===========*/
+.subscribe-title h2 {
+    font-size: 45px;
+}
+
+.subscribe-title p {
+    font-size: 16px;
+}
+
+.subscribe-form input {
+    width: 50%;
+}
+
+.subscribe-form button {
+    right: 177px;
+    top: 278px;
+}
+
+/*=======error Area responsive===========*/
+.error-content h2 {
+    font-size: 40px;
+}
+
+.error-content p {
+    width: 80%;
+}
+
+.section-button a {
+    font-size: 15px;
+}
+
+.error-icon ul .square {
+    width: 200px;
+}
+
+.error-content h1 {
+    font-size: 100px;
+}
+
+/*=======counter Area responsive===========*/
+.single-counter-box{
+    text-align: center;
+}
+
+.counter-title h1 {
+    font-size: 50px;
+}
+
+/*========blog-dtails Area responsive===========*/
+.blog_dtl_thumb img {
+    margin-top: 30px;
+}
+
+.search button {
+    left: 505px;
+}
+
+.blog_dtl_content h2 {
+    font-size: 23px;
+}
+
+.blog_dtl_content p {
+    width: 100%;
+}
+
+blockquote {
+    width: 100%;
+}
+
+.form_field_inner textarea {
+    width: 100%;
+}
+
+/*========pricing-responsive===========*/
+.pricing-single-box {
+    text-align: center;
+}
+
+.pricing::before {
+    left: 40px;
+    width: 350px;
+}
+
+.pricing::after {
+    left: 40px;
+    width: 350px;
+}
+
+.pricing-head h3 {
+    font-size: 20px;
+}
+
+.pricing {
+    font-size: 22px;
+}
+
+/*========breadcumb-responsive===========*/
+.breadcumb-title h1 {
+    font-size: 40px;
+}
+
+/*========machine-location-responsive===========*/
+.machine-content p {
+    font-size: 15px;
+}
+
+.form-field input {
+    width: 40%;
+}
+
+.form-field button {
+    top: 156px;
+    left: 340px;
+}
+
+.register-content p {
+    width: 100%;
+}
+
+.shop-title p {
+    margin: 0;
+}
+
+.shops-title {
+    left: 335px;
+}
+
+.shops-title p {
+    padding: 5px 25px;
+}
+
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+.sticky {
+    position: absolute !important;
+}
+
+.Vendin_nav_manu{
+    display: none;
+}
+
+/*========slide-responsive===========*/
+.slider-title h1 {
+    font-size: 25px;
+}
+
+.hero-bg .slider-title h1 {
+    width: 100%;
+}
+
+.slider-title p {
+    width: 100%;
+}
+
+.section-button a {
+    font-size: 16px;
+}
+
+/*========about-responsive===========*/
+.abouts-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 35px;
+}
+
+.section-button {
+    margin-bottom: 30px;
+}
+
+.about-two-section .section-title p{
+    width: 100%;
+}
+
+.awaid-number {
+    position: absolute;
+    left: 100px;
+}
+
+.section-titles p {
+    width: 100%;
+}
+
+/*==========service-section=============*/
+.service-disc p {
+    width: 75%;
+ }
+
+ .service-two-section .section-title p {
+    width: 100%;
+}
+
+.service-section .section-title p {
+    width: 100%;
+}
+
+.service-two-section .section-title h2 {
+    font-size: 45px;
+}
+
+.service-two-section .service-disc p {
+    width: 90%;
+}
+
+.service-expart-thumb img {
+    margin-bottom: 30px;
+}
+
+.service-expart-section .section-title p {
+    width: 100%;
+}
+
+.section-title h4 a {
+    font-size: 22px;
+}
+
+.calendar {
+    padding: 20px 0px 0;
+}
+
+/*========awaids-responsive===========*/
+.awaids-section .section-title p{
+    width: 100%;
+}
+
+.why-choose-us-tab{
+    margin-bottom: 100px;
+}
+
+.awaid-number {
+    left: 170px;
+}
+
+.awaids-icon {
+    left: 170px;
+}
+
+.why-choose-us-tabs{
+    padding-bottom: 0;
+}
+
+.section-titles h3 {
+    font-size: 30px;
+}
+
+/*==========feature-section=============*/
+.feature-section .section-title p {
+    width: 100%;
+}
+
+.feature-button {
+    top: 435px;
+    right: 20px;
+}
+
+/*==========testimonial-section=============*/
+.testimonial-section .section-title p {
+    width: 100%;
+}
+
+.testimonial-disc p {
+    width: 100%;
+}
+
+.testimonial-section .owl-dots {
+    top: 395px;
+}
+
+/*========team-responsive===========*/
+.team-section .section-title p {
+    width: 100%;
+}
+
+.team-single-box::before {
+    top: 475px;
+}
+
+.team-two-section .section-title p {
+   width: 100%;
+}
+
+/*========brand-responsive===========*/
+.brand-section .section-title p {
+    width: 100%;
+}
+
+/*========blog-responsive===========*/
+.blog-section .section-title p {
+    width: 100%;
+}
+
+/*========subscribe-responsive===========*/
+.subscribe-title h2 {
+    font-size: 45px;
+}
+
+.subscribe-title p {
+    font-size: 18px;
+}
+
+.subscribe-form input {
+    width: 55%;
+}
+
+.subscribe-form button {
+    right: 120px;
+    top: 285px;
+}
+
+/*=======error Area responsive===========*/
+.error-content h2 {
+    font-size: 35px;
+}
+
+.error-content p {
+    width: 100%;
+}
+
+.section-button a {
+    font-size: 15px;
+}
+
+.error-icon ul li i {
+    font-size: 45px;
+}
+
+.error-icon ul .square {
+    width: 200px;
+    height: 45px;
+}
+
+.error-content h1 {
+    font-size: 90px;
+}
+
+/*=======counter Area responsive===========*/
+.single-counter-box{
+    text-align: center;
+}
+
+.counter-title h1 {
+    font-size: 45px;
+}
+
+/*========blog-dtails Area responsive===========*/
+.blog_dtl_thumb img {
+    margin-top: 30px;
+}
+
+.search button {
+    left: 415px;
+}
+
+.blog-dt-title h3 {
+    font-size: 22px;
+}
+
+.blog_dtl_content h2 {
+    font-size: 23px;
+}
+
+.blog_dtl_content p {
+    width: 100%;
+}
+
+blockquote {
+    width: 100%;
+}
+
+.form_field_inner textarea {
+    width: 100%;
+}
+
+/*==========contact-section==============*/
+.contacts-single-box {
+    padding: 45px 25px 50px;
+}
+
+.contact-thumb img {
+    width: 100%;
+  }
+
+/*========pricing-responsive===========*/
+.pricing-single-box {
+    text-align: center;
+}
+
+.pricing::before {
+    left: 40px;
+    width: 300px;
+}
+
+.pricing::after {
+    left: 40px;
+    width: 300px;
+}
+
+.pricing-head h3 {
+    font-size: 20px;
+}
+
+.pricing {
+    font-size: 22px;
+}
+
+/*========breadcumb-responsive===========*/
+.breadcumb-title h1 {
+    font-size: 35px;
+}
+
+/*========machine-location-responsive===========*/
+.form-field input {
+    width: 45%;
+}
+
+.form-field button {
+    top: 185px;
+    left: 290px;
+}
+
+.register-content p {
+    width: 100%;
+}
+
+.shop-title p {
+    margin: 0;
+}
+
+.shops-title {
+    left: 295px;
+}
+
+.shops-title p {
+    padding: 5px 25px;
+}
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+.sticky {
+    position: absolute !important;
+}
+
+.Vendin_nav_manu{
+    display: none;
+}
+
+/*========slide-responsive===========*/
+.slider-title h1 {
+    font-size: 20px;
+}
+
+.hero-bg .slider-title h1 {
+    width: 100%;
+}
+
+.slider-title p {
+    width: 100%;
+}
+
+.section-button a {
+    font-size: 16px;
+}
+
+/*========about-responsive===========*/
+.abouts-thumb img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 28px;
+}
+
+.section-button {
+    margin-bottom: 30px;
+}
+
+.section-titles p {
+    width: 100%;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+.about-two-section .section-title p {
+    width: 100%;
+}
+
+/*==========service-section=============*/
+.service-disc p {
+    width: 100%;
+ }
+
+ .service-section .section-title p {
+    width: 100%;
+}
+
+.service-two-section .section-title h2 {
+    font-size: 35px;
+}
+
+ .service-two-section .section-title p {
+    width: 100%;
+}
+
+.service-two-section .service-disc p {
+    width: 90%;
+}
+
+.section-title h4 a {
+    font-size: 22px;
+}
+
+.service-expart-thumb img {
+    margin-bottom: 30px;
+}
+
+.service-expart-section .section-title p {
+    width: 100%;
+}
+
+.calendar {
+    padding: 20px 0px 0;
+}
+
+.recent-post-text h4 a {
+    font-size: 14px;
+}
+
+/*========awaids-responsive===========*/
+.awaids-section .section-title p{
+    width: 100%;
+}
+
+.why-choose-us-tab{
+    margin-bottom: 100px;
+}
+
+.awaid-number {
+    left: 100px;
+}
+
+.awaids-icon {
+    left: 100px;
+}
+
+.why-choose-us-tabs{
+    padding-bottom: 0;
+}
+
+.content1-thumb {
+    margin-right: 0px;
+}
+
+.section-titles h3 {
+    font-size: 25px;
+}
+
+/*==========feature-section=============*/
+.feature-section .section-title p {
+    width: 100%;
+}
+
+.feature-button {
+    top: 300px;
+    right: 10px;
+}
+
+.feature-content h4 a {
+    font-size: 22px;
+}
+
+.shop-title p {
+    margin-bottom: 20px;
+}
+
+.shops-title {
+    left: 145px;
+}
+
+.shops-title p {
+    padding: 5px 15px;
+    width: 50%;
+}
+
+/*==========testimonial-section=============*/
+.testimonial-section .section-title p {
+    width: 100%;
+}
+
+.testimonial-disc p {
+    width: 100%;
+}
+
+.single-testimonial {
+    padding: 45px 8px 35px;
+}
+
+.testimonial-section .owl-dots {
+    top: 395px;
+}
+
+/*========team-responsive===========*/
+.team-section .section-title p {
+    width: 100%;
+}
+
+.team-single-box::before {
+    top: 305px;
+}
+
+.team-two-section .section-title p {
+    width: 100%;
+}
+
+/*========brand-responsive===========*/
+.brand-section .section-title p {
+    width: 100%;
+}
+
+/*========blog-responsive===========*/
+.blog-section .section-title p {
+    width: 100%;
+}
+
+.blog-content h4 a {
+    font-size: 20px;
+}
+
+.blog-content {
+    padding: 0 20px;
+}
+
+/*========subscribe-responsive===========*/
+.subscribe-title h2 {
+    font-size: 35px;
+}
+
+.subscribe-title p {
+    font-size: 16px;
+}
+
+.subscribe-form input {
+    width: 70%;
+}
+
+.subscribe-form button {
+    right: 62px;
+    top: 265px;
+}
+
+/*=======error Area responsive===========*/
+.error-content h2 {
+    font-size: 35px;
+}
+
+.error-content p {
+    width: 100%;
+}
+
+.section-button a {
+    font-size: 14px;
+}
+
+.error-icon ul li i {
+    font-size: 30px;
+}
+
+.error-icon ul .square {
+    width: 120px;
+    height: 30px;
+}
+
+.error-content h1 {
+    font-size: 80px;
+}
+
+/*=======counter Area responsive===========*/
+.counter-title h1 {
+    font-size: 45px;
+}
+
+/*========blog-dtails Area responsive===========*/
+.breadcumb-title h1 {
+    font-size: 35px;
+}
+
+.blog_dtl_thumb img {
+    margin-top: 30px;
+}
+
+.search button {
+    left: 260px;
+}
+
+.blog-dt-title h3 {
+    font-size: 21px;
+}
+
+.blog_dtl_content h2 {
+    font-size: 18px;
+}
+
+.blog_dtl_content p {
+    width: 100%;
+}
+
+blockquote {
+    width: 100%;
+}
+
+.form_field_inner textarea {
+    width: 100%;
+}
+
+/*==========contact-section==============*/
+.contacts-single-box {
+    padding: 45px 20px 50px;
+}
+
+.contacts-title h2 {
+    font-size: 30px;
+}
+
+.contact-thumb img {
+    width: 100%;
+  }
+
+/*========pricing-responsive===========*/
+.pricing-single-box {
+  padding: 42px 0px 45px 0px;
+  text-align: center;
+}
+
+.pricing::before {
+    left: 30px;
+    width: 200px;
+}
+
+.pricing::after {
+    left: 30px;
+    width: 200px;
+}
+
+.pricing-head h3 {
+    font-size: 20px;
+}
+
+.pricing {
+    font-size: 22px;
+}
+
+.price-btn a {
+    font-size: 14px;
+    padding: 15px 40px;
+}
+
+/*========breadcumb-responsive===========*/
+.breadcumb-title h1 {
+    font-size: 30px;
+}
+
+/*========machine-location-responsive===========*/
+.form-field input {
+    width: 60%;
+}
+
+.form-field button {
+    top: 185px;
+    left: 200px;
+}
+
+.register-content p {
+    width: 100%;
+}
+
+
+}

@@ -1,0 +1,25 @@
+/* 确保 .container-fluid 宽度为100% */
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* 移除 .row 的外边距，如果需要 */
+.row {
+  margin: 0;
+}
+
+/* 如果需要对导航栏进行样式调整，可以添加如下样式 */
+.Vendin_nav_manu {
+  background: #fff; /* 导航栏背景颜色 */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 添加一个简单的阴影效果 */
+}
+
+/* 确保logo图片适应容器大小 */
+.logo_img img {
+  max-width: 100%;
+  height: auto;
+}
